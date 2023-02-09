@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nataliehogg/nataliehogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Untitled presentation](https://user-images.githubusercontent.com/32572654/217845779-474ec509-00d2-45f3-9bb2-5aedce411f7f.png)
+
